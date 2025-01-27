@@ -23,19 +23,19 @@
 
 <br>
 
-![](img/thorium_CR9ySTLkeS.PNG)<font size=2 color=grey align="center">使用者主頁</font>
+![](img/thorium_CR9ySTLkeS.png)<font size=2 color=grey align="center">使用者主頁</font>
 
 <br>
 
-![](img/thorium_9dFKmspM2r.PNG)<font size=2 color=grey align="center">遊戲商店頁</font>
+![](img/thorium_9dFKmspM2r.png)<font size=2 color=grey align="center">遊戲商店頁</font>
 
 <br>
 
-![](img/thorium_0ieQq5l06G.PNG)<font size=2 color=grey align="center">貼文</font>
+![](img/thorium_0ieQq5l06G.png)<font size=2 color=grey align="center">貼文</font>
 
 <br>
 
-![](img/thorium_sFbjtRqrX7.PNG)<font size=2 color=grey align="center">留言區 (目前小黑盒網頁版暫不支援層回覆外顯)</font>
+![](img/thorium_sFbjtRqrX7.png)<font size=2 color=grey align="center">留言區 (目前小黑盒網頁版暫不支援層回覆外顯)</font>
 
 </details>
 
